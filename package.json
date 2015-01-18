@@ -1,0 +1,17 @@
+{
+  "name": "mySecureRestApi",
+  "version": "1.0.0",
+  "description": "Test Secure REST API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Rankin <jjrankin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.10.1",
+    "express": "^4.11.0",
+    "jwt-simple": "^0.2.0",
+    "morgan": "^1.5.1"
+  }
+}
